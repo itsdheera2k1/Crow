@@ -20,7 +20,6 @@ The centralized payload generation hub. Configure your server's public IP/URL an
 
 ### 📊 The Crow Log (Device Management)
 Monitor your "flock" with real-time status updates. Track online/offline status, IP addresses, and geographic origin of every connected node.
-![Dashboard](Screenshots/Screenshot_20260407_052005.png)
 
 ### 🔍 Deep Inspection
 Gain granular insights into every managed device:
