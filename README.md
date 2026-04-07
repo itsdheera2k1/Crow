@@ -8,8 +8,8 @@ CRowe is a powerful, web-based remote administration and monitoring system built
 ## 📺 System Demonstration
 See the CRowe dashboard and its glassmorphism interface in action:
 
-https://github.com/your-username/your-repo/assets/Screencast_20260407_052112.webm
 
+https://github.com/itsdheera2k1/Crow/blob/main/Screenshots/Screencast_20260407_052112.webm
 ---
 
 ## 🚀 Key Modules
