@@ -3,11 +3,12 @@
 
 CRowe is a powerful, web-based remote administration and monitoring system built on **Node.js**. It provides a high-performance, aesthetically pleasing interface for managing distributed devices and monitoring network health from any location.
 
-<p align="center">
-  <img src="Screenshots/Screenshot_20260403_020915.png" width="180" alt="CRowe Logo">
-  <br>
-  <i>"Keep an eye on the whole flock."</i>
-</p>
+
+
+## 📺 System Demonstration
+See the CRowe dashboard and its glassmorphism interface in action:
+
+https://github.com/your-username/your-repo/assets/Screencast_20260407_052112.webm
 
 ---
 
@@ -38,14 +39,9 @@ Gain granular insights into every managed device:
 * **Engine**: Node.js (Express & EJS)
 * **Frontend**: Custom CSS3 (Glassmorphism & Pastel Aesthetic)
 * **Connectivity**: Web-based remote accessibility with encrypted socket handling.
-* **Alerts**: Extensible notification system via Email/SMS for critical events.
-
-## 📦 Current Status
-> [!NOTE]  
-> CRowe is currently under active development. This repository serves as the primary hub for documentation and release tracking. 
 
 ## ⚖️ Disclaimer
-This software is developed for **authorized** security auditing, network management, and educational purposes. The developer is not responsible for any misuse. Always ensure compliance with local laws and obtain explicit permission before monitoring any system.
+This software is developed for **authorized** security auditing and educational purposes. The developer is not responsible for any misuse. Always obtain explicit permission before monitoring any system.
 
 ---
 **Made with ❤️ By Dheera**
